@@ -64,6 +64,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    console.log("Website THCS Thị Trấn 2 (Demo) đã sẵn sàng!");
+    console.log("Website THCS Thị Trấn 2 đã sẵn sàng!");
     alert("Chào mừng bạn đến với bản demo website Trường THCS Thị Trấn 2");
 });
